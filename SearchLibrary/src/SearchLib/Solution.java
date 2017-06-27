@@ -1,7 +1,11 @@
 package SearchLib;
 
 import java.util.LinkedList;
-
+/**
+ * 
+ * @author Sahar Mizrahi and Gal Ezra
+ *
+ */
 public class Solution
 {
 	LinkedList<Action> actionList;

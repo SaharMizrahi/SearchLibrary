@@ -1,5 +1,10 @@
 package SearchLib;
-
+/**
+ * 
+ * @author Sahar Mizrahi and Gal Ezra
+ *
+ * @param <T>
+ */
 public class State<T>
 {
 	private State<T> cameFrom;

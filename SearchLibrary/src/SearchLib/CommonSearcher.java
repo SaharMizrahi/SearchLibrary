@@ -3,7 +3,12 @@ package SearchLib;
 import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.PriorityQueue;
-
+/**
+ * 
+ * @author Sahar Mizrahi and Gal Ezra
+ *
+ * @param <T>
+ */
 public abstract class CommonSearcher<T> implements Searcher<T>
 {
 	private State<T> finalState;
